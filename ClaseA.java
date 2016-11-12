@@ -1,9 +1,15 @@
 public class ClaseA{
-   private int x;
+   private String x;
    private int y;
    
        public ClaseA(){
-          x=0;
+          x="";
           y=0;
            }
+   public void maensaje(){
+      
+    System.out.println("hola mundo");
+   
+     } 
+   }
 }
